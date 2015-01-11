@@ -1,0 +1,21 @@
+{
+  "name": "world-of-bees",
+  "version": "0.0.0",
+  "description": "It will be world of bees",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PavelKonon/world-of-bees"
+  },
+  "keywords": [
+    "bee"
+  ],
+  "author": "Pavel Konon",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/PavelKonon/world-of-bees/issues"
+  }
+}
